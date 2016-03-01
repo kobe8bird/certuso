@@ -10,7 +10,7 @@
 	<!-- Basic Page Needs
   ================================================== -->
 	<meta charset="utf-8">
-	<title>Certuso</title>
+	<title>Certuso - Steel Sheet Pile Provider in the Philippines</title>
   <meta name="description" content="Certuso">
   <meta name="author" content="Certuso">
     <!--[if lt IE 9]>

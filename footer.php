@@ -25,6 +25,7 @@
                <li class="footerAddress">Luzon Office and Warehouse : Unit 1, Phase 4, Brgy. Sta. Rosa, II, Marilao, Bulacan</li>
                <li class="footerPhone">+639167276126 / +639472116950</li>
                <li class="footerAddress">Main Office : Rm. 303 Lee Business Corner, Juan Luna cor. Juan dela Cruz Sts., Brgy 29C, Poblacion, Davao City</li>
+                <li class="footerPhone">+639228778958 / F: +639175101536</li>
                <li class="footerPhone">+6382 227 5215 / F: +6382 227 8123</li>
                <li class="footerMail"><a href="mailto:info@certuso.com.ph">info@certuso.com.ph</a></li>
              </ul>
@@ -55,6 +56,7 @@
               <li><a href="#">PRODUCTS</a></li>
               <li><a href="#">SERVICES</a></li>
               <li><a href="#">CLIENTS</a></li>
+              <li><a href="#">BLOG</a></li>
               <li><a href="#">CONTACT</a></li>
           </ul>
           

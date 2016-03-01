@@ -107,7 +107,8 @@
 	body {
 		background: #fff;
 		font: 12px/20px Arial, sans-serif;
-		color: #777;
+		/*color: #777;*/
+		color:#454;
 		/*
 		-webkit-font-smoothing: antialiased;
 		-webkit-text-size-adjust: 100%;

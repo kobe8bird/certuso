@@ -10,7 +10,7 @@
 	<!-- Basic Page Needs
   ================================================== -->
 	<meta charset="utf-8">
-	<title>Certuso</title>
+	<title>Certuso - Steel Sheet Pile Provider in the Philippines</title>
   <meta name="description" content="Certuso">
   <meta name="author" content="Certuso">
     
@@ -81,7 +81,7 @@
 	<!-- Primary Page Layout
 	================================================== -->
 
-	<div class="container home" data-backgroundImage="images/backgrounds/home1.jpg">
+	<div class="container home"> <!-- data-backgroundImage="images/backgrounds/home3.jpg" -->
     
         
 		    <?php include "menu.php"; ?>
@@ -160,8 +160,8 @@
                   <article class="onehalf row last">
                     <img src="images/home3.jpg" alt="">
                  </article>
-                  <p>Certuso focuses on quality, cost efficiency, and product availability in all of its steel sheet pile products. It is dedicated to provide its customers with the highest level of service at the most competitive prices.</p>
-                  <p>Certuso's sheet pile products are manufactured under the highest international standards and are engineered to provide optimal performance for maximal results.</p>
+                  <p class="p-text">Certuso focuses on quality, cost efficiency, and product availability in all of its steel sheet pile products. It is dedicated to provide its customers with the highest level of service at the most competitive prices.</p>
+                  <p class="p-text">Certuso's sheet pile products are manufactured under the highest international standards and are engineered to provide optimal performance for maximal results.</p>
                </article>
               
         

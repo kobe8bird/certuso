@@ -10,7 +10,7 @@
 	<!-- Basic Page Needs
   ================================================== -->
 	<meta charset="utf-8">
-	<title>Certuso</title>
+	<title>Certuso - Steel Sheet Pile Provider in the Philippines</title>
   <meta name="description" content="Certuso">
   <meta name="author" content="Certuso">
     
@@ -110,8 +110,7 @@
         <!-- Tag Line
         ================================================== -->
         <section id="tagLine" class="sixteen columns row">
-            <h1>We provide <span class="highlight">full customization</span> on steel grade, lenght, and design to meet your specific <span class="highlight">site</span> challenges.</h1>
-
+           <h1>We provide <span class="highlight">full customization</span> on steel grade, length, and design to meet your specific <span class="highlight">site</span> challenges.</h1>
         </section>
         
         <div id="tagLineShadow" class="sixteen columns"></div>
@@ -160,18 +159,27 @@
         ================================================== -->
         <section class="left-twenty sixteen columns">
         
-           <article class="onehalf row">
+          <article class="onehalf row">
                <!-- Start section header -->
                <div class="sectionHeader row">
                
                     <div class="sectionHeadingWrap">
                         <span class="sectionHeading">Vision and Mission</span>
-                    </div>
-                 
-                           
+                    </div>      
                </div>
+
+               <!-- <h1><span class="highlight">Vision</span> -->
                <!-- /End section header -->
-              <p>Duis scelerisque dui nec arcu vestibulum ultricies. Mauris convallis euismod egestasis. Vivamus nulla enim, commodo vitae eleifend et, interdum in metus. Quisque lorem inoi augue, malesuada in ultricies ac, bibendum quis nulla. Proin libero erat, pulvinar egeti iaculis sed, viverra vel ante. Donec tincidunt facilisis tempor.</p>
+               <!-- <span class="highlight">Vision</span>  -->
+              <p>We strive to become the leading Philippine steel sheet pile solutions company.</p>
+
+              <!-- <span class="highlight">Mission</span>  -->
+              <p>By fostering personal development of our employees, adhering to a solid business practice, providing continuous growth and 
+
+                opportunities to our shareholders, and securing a solid customer relationship, we are committed to provide the highest-quality of 
+
+                service and steel products throughout the country.
+              </p>
           </article>
            
           <article class="onehalf row last">
@@ -179,13 +187,38 @@
            <div class="sectionHeader row">
            
                 <div class="sectionHeadingWrap">
-                    <span class="sectionHeading">Ethics</span>
+                    <span class="sectionHeading">Core Values</span>
                 </div>
              
                        
            </div>
            <!-- /End section header -->
-              <p>Duis scelerisque dui nec arcu vestibulum ultricies. Mauris convallis euismod egestasis. Vivamus nulla enim, commodo vitae eleifend et, interdum in metus. Quisque lorem inoi augue, malesuada in ultricies ac, bibendum quis nulla. Proin libero erat, pulvinar egeti iaculis sed, viverra vel ante. Donec tincidunt facilisis tempor.</p>
+              <p>We believe these guiding principles will help us get to the top:</p>
+              <p> 
+                  <ol>
+                    <li><STRONG><span class=""> Our People - </span></STRONG> We inspire our employees to strive for personal development in order to serve better the company and its
+                      clients.
+                    </li>
+
+                    <li><STRONG><span class=""> Business Standards - </span></STRONG> We adhere to strict business standards and practices that allows us to add value to our clients.
+                    </li>
+
+                    <li><STRONG><span class=""> Reliability - </span></STRONG> We assist our clients in their projects by providing a reliable service and supply of products at the most
+                      competitive price.
+                    </li>
+
+                    <li><STRONG><span class=""> Efficacy- </span></STRONG> We strive to achieve results by doing all means to provide the necessary service and produce the desired
+                       output for our company and our clients.
+                    </li>
+
+                    <li><STRONG><span class=""> Opportunities- </span></STRONG> We seek for continuous growth and opportunities that enables the expansion of activities, improvement
+
+                      of linkages, and betterment of employees which will provide better services to our clients as well as to add value to our 
+
+                      shareholders.
+                    </li>
+                  </ol>
+              </p>
           </article>
         
         

@@ -54,6 +54,10 @@ a:active {
     text-decoration: none;
 }
 
+p.p-text {
+    font-size: 16px;
+}
+
 ::selection {
     color: #fff;
 }
@@ -547,10 +551,10 @@ opacity: 0.8;
 }
 
 #tagLine h1{
- font-size: 22px;
+ font-size: 24px;
  /*color: #aaa;*/
  margin-top: 8px;
- line-height: 16px;
+ line-height: 30px;
  font-family: 'CabinSemiBold', sans-serif;
  font-weight: normal;
 }

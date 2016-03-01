@@ -40,7 +40,7 @@
               
 			<form action="#" method="post">
                   <select>
-                      <option value="">Navigation</option>
+                      <option value="">--</option>
                   </select>
 			</form>
 			

@@ -10,7 +10,7 @@
 	<!-- Basic Page Needs
   ================================================== -->
 	<meta charset="utf-8">
-	<title>Certuso</title>
+	<title>Certuso - Steel Sheet Pile Provider in the Philippines</title>
   <meta name="description" content="Certuso">
   <meta name="author" content="Certuso">
     
@@ -112,7 +112,7 @@
         <!-- Tag Line
         ================================================== -->
         <section id="tagLine" class="sixteen columns row">
-            <h1>We provide <span class="highlight">full customization</span> on steel grade, lenght, and design to meet your specific <span class="highlight">site</span> challenges.</h1>
+            <h1>We provide <span class="highlight">full customization</span> on steel grade, length, and design to meet your specific <span class="highlight">site</span> challenges.</h1>
 
         </section>
         
